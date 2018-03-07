@@ -13,4 +13,4 @@ spring:
             fallback: false
 support:
   email:
-    from: wleylop22@gmail.com
+    from: user@mail.com
